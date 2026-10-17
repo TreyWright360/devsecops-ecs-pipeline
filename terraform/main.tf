@@ -34,5 +34,5 @@ variable "environment" {
 variable "github_repository" {
   description = "Format: owner/repo-name (e.g., your-username/devsecops-ecs-pipeline)"
   type        = string
-  default     = "trey-wright/devsecops-ecs-pipeline"
+  default     = "TreyWright360/devsecops-ecs-pipeline"
 }

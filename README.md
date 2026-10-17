@@ -85,8 +85,8 @@ This repository implements the end-to-end security architecture required for **S
 ```bash
 cd terraform
 terraform init
-terraform plan -var="github_repository=your-username/devsecops-ecs-pipeline"
-terraform apply -var="github_repository=your-username/devsecops-ecs-pipeline"
+terraform plan -var="github_repository=TreyWright360/devsecops-ecs-pipeline"
+terraform apply -var="github_repository=TreyWright360/devsecops-ecs-pipeline"
 ```
 
 ### 2. Configure GitHub Repository Secrets
